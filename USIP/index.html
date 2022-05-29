@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="App">
+<head>
+	<meta charset="utf-8" />
+	<link href="Content/boostrap3/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+		  rel="stylesheet">
+
+	<link href="Content/boostrap3/css/sb-admin-2.css" rel="stylesheet">
+	<link rel="stylesheet" href="lib/bootstrap-additions/dist/bootstrap-additions.min.css" />
+	<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+	<div ng-controller="AppCtrl">
+		<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar" style=" padding: 10px;" ng-if="!hide()">
+
+			<a class="sidebar-brand d-flex align-items-center justify-content-center" href="/#!/classlist">
+				<div class="sidebar-brand-text mx-3">Escuela GTA</div>
+			</a>
+
+			<hr class="sidebar-divider my-0">
+
+			<li class="nav-item active">
+				<a class="nav-link" href="/#!/dashboard">
+					<i class="fas fa-fw fa-tachometer-alt"></i>
+					<span>Inicio</span>
+				</a>
+			</li>
+
+			<hr class="sidebar-divider">
+
+			<div class="sidebar-heading">
+				Administracion
+			</div>
+			<li class="nav-item">
+				<a class="nav-link" href="/#!/coursesubjectlist" style="width: 100%;">
+					<i class="fas fa-fw fa-chart-area"></i>
+					<span>Control educativo</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/#!/subjectlist">
+					<i class="fas fa-fw fa-table"></i>
+					<span>Materias</span>
+				</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/#!/classlist">
+					<i class="fas fa-fw fa-table"></i>
+					<span>Cursos</span>
+				</a>
+			</li>
+			<hr class="sidebar-divider">
+
+			<div class="sidebar-heading">
+				Registros
+			</div>
+			<li class="nav-item">
+				<a class="nav-link" href="/#!/home">
+					<i class="fas fa-fw fa-chart-area"></i>
+					<span>Estudiantes</span>
+				</a>
+			</li>
+
+			<li class="nav-item">
+				<a class="nav-link" href="/#!/teacherlist">
+					<i class="fas fa-fw fa-chart-area"></i>
+					<span>Profesores</span>
+				</a>
+			</li>
+
+
+
+
+		</ul>
+		<div" layout="row" layout-align="center" ng-if="!hide()">
+			<md-content layout="row" flex style="overflow: inherit">
+				<md-toolbar class="mdi-toolbar">
+					<custom-menu></custom-menu>
+				</md-toolbar>
+			</md-content>
+		</div">
+		<div class="container-fluid">
+			<ui-view></ui-view>
+		</div>
+	</div>
+
+	<script src="lib/jquery/jquery.min.js"></script>
+	<script src="lib/jquery-ui/jquery-ui.min.js"></script>
+	<script src="lib/angular/angular.min.js"></script>
+	<script src="lib/angular-confirm-modal/angular-confirm.min.js"></script>
+	<script src="lib/angular-cookies/angular-cookies.min.js"></script>
+	<script src="lib/angular-route/angular-route.min.js"></script>
+	<script src="lib/angular-resource/angular-resource.min.js"></script>
+	<script src="lib/angular-sanitize/angular-sanitize.min.js"></script>
+	<script src="lib/angular-animate/angular-animate.min.js"></script>
+	<script src="lib/angular-aria/angular-aria.min.js"></script>
+	<script src="lib/angular-idle/angular-idle.min.js"></script>
+	<script src="lib/angular-ui-router/release/angular-ui-router.min.js"></script>
+	<script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="lib/bootstrap-switch/dist/js/bootstrap-switch.min.js"></script>
+
+	<script src="lib/angular-material/angular-material.min.js"></script>
+	<script src="lib/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+	<script src="lib/bootstrap-filestyle/src/bootstrap-filestyle.min.js"></script>
+	<script src="lib/underscore/underscore-min.js"></script>
+
+	<script src="Scripts/app.js"></script>
+
+	<script src="Scripts/dashboard/dashboard.js"></script>
+	<script src="Scripts/home/home.js"></script>
+	<script src="Scripts/student/student.js"></script>
+	<script src="Scripts/course/course.js"></script>
+	<script src="Scripts/classlist/classlist.js"></script>
+	<script src="Scripts/subjectlist/subjectlist.js"></script>
+	<script src="Scripts/subject/subject.js"></script>
+	<script src="Scripts/teacherlist/teacherlist.js"></script>
+
+	<script src="Scripts/teacher/teacher.js"></script>
+	<script src="Scripts/coursesubjectlist/coursesubjectlist.js"></script>
+	
+	<script src="Scripts/login/login.js"></script>
+	<script src="Scripts/menu/menu.js"></script>
+</body>
+</html>

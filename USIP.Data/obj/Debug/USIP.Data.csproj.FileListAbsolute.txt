@@ -1,0 +1,48 @@
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Data.dll.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Data.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Data.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\EntityFramework.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Error.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Model.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\log4net.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Error.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\USIP.Model.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\EntityFramework.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\bin\Debug\log4net.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.AssemblyReference.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.CopyComplete
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\obj\Debug\USIP.Data.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Data\obj\Debug\USIP.Data.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Data.dll.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Data.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Data.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\EntityFramework.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\Newtonsoft.Json.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\System.Net.Http.Formatting.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\System.Web.Http.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Error.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Model.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\log4net.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Error.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\USIP.Model.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\EntityFramework.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\Newtonsoft.Json.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\System.Net.Http.Formatting.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\System.Web.Http.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\bin\Debug\log4net.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.AssemblyReference.cache
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.CoreCompileInputs.cache
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\obj\Debug\USIP.Data.csproj.CopyComplete
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\obj\Debug\USIP.Data.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP.Data\obj\Debug\USIP.Data.pdb

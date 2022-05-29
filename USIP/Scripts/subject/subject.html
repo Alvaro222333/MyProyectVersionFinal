@@ -1,0 +1,26 @@
+﻿<form>
+	<h2 style=" text-align: center;">Actualizacion</h2>
+	<div class="modal-dialo modal-body">
+		<div class="form-group">
+			<div class="row">
+				<input type="hidden" ng-model="subject.id" />
+				<div class="col-lg-4">
+					<span>Nombre de asignatura: </span>
+				</div>
+				<div class="col-lg-8">
+					<input class="form-control" type="text" ng-model="subject.name" required />
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal-footer">
+		<div class="btn btn-primary" ng-click="handler.save(subject)">
+			Guardar Cambios
+		</div>
+		<div class="btn btn-secondary" ng-click="handler.close(subject)">
+			Cancelar
+		</div>
+	</div>
+</form>
+
+

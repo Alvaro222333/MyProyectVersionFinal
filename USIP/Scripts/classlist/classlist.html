@@ -1,0 +1,43 @@
+﻿<div class="card shadow mb-4" style="width: 600px;">
+    <div class="card-header py-6">
+        <h6 class="m-0 font-weight-bold text-primary">Listado de Cursos</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="btn btn-success" ng-click="openEditor()">
+                    <span class="glyphicon glyphicon-user"></span> Crear nuevo Curso
+                </div>
+            </div>
+        </div>
+        <br>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Limite estudiantes</th>
+                    <th scope="col">Accion</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="course in courses">
+                    <th scope="row">{{$index + 1}}</th>
+                    <td>{{course.name}}</td>
+                    <td style=" text-align-last: center;">{{course.limitStudent}}</td>
+                    <td>
+                        <div class="btn btn-warning" ng-click="edit(course)">
+                            EDITAR
+                        </div>
+                        <div class="btn btn-danger" ng-click="delete(course)">
+                            ELIMINAR
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+
+</div>

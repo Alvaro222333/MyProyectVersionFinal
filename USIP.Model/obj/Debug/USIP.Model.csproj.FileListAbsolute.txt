@@ -1,0 +1,6 @@
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\bin\Debug\USIP.Model.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\bin\Debug\USIP.Model.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\obj\Debug\USIP.Model.csproj.AssemblyReference.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\obj\Debug\USIP.Model.csproj.CoreCompileInputs.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\obj\Debug\USIP.Model.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Model\obj\Debug\USIP.Model.pdb

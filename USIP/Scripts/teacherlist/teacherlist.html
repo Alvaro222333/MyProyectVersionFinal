@@ -1,0 +1,45 @@
+﻿<div class="card shadow mb-4" style="width: 600px;">
+	<div class="card-header py-6">
+		<h6 class="m-0 font-weight-bold text-primary">Listado de Profesores</h6>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="btn btn-success" ng-click="openEditor()">
+					<span class="glyphicon glyphicon-user"></span> Crear nueva Profesor(a)
+				</div>
+			</div>
+		</div>
+		<br>
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">#</th>
+					<th scope="col">Nombre</th>
+					<th scope="col">Apellidos</th>
+					<th scope="col">Experiencia en años </th>
+					<th scope="col">Accion</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="teacher in teachers">
+					<th scope="row">{{$index + 1}}</th>
+					<td>{{teacher.name}}</td>
+					<td>{{teacher.lastName}}</td>
+					<td style=" text-align-last: center;">{{teacher.yearExperience}}</td>
+					<td>
+						<div class="btn btn-warning" ng-click="edit(teacher)">
+							EDITAR
+						</div>
+						<div class="btn btn-danger" ng-click="delete(teacher)">
+							ELIMINAR
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+	</div>
+
+</div>

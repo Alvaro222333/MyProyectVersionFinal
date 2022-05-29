@@ -1,0 +1,9 @@
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\bin\Debug\USIP.Error.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\bin\Debug\USIP.Error.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\bin\Debug\log4net.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\bin\Debug\log4net.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\obj\Debug\USIP.Error.csproj.AssemblyReference.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\obj\Debug\USIP.Error.csproj.CoreCompileInputs.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\obj\Debug\USIP.Error.csproj.CopyComplete
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\obj\Debug\USIP.Error.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP.Error\obj\Debug\USIP.Error.pdb

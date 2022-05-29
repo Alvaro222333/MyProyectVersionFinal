@@ -1,0 +1,124 @@
+﻿body,
+html,
+.usip {
+	font-size: 62.5%;
+	height: 100%;
+	font-family: 'Comic Sans MS'
+}
+
+body {
+	width: 100%;
+}
+
+a,
+input,
+div,
+span,
+pre,
+label,
+dd {
+	font-size: 1.4rem;
+	font-family: 'Comic Sans MS'
+}
+
+pre {
+	padding: 0;
+	background: none;
+	margin: 0;
+	color: inherit;
+	border: none;
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.cursor {
+	cursor: pointer;
+	padding:0;
+	outline: none;
+}
+
+.login {
+	background: linear-gradient(to bottom #ffd800, #0026ff);
+	text-align: center;
+	padding-top: 50px;
+}
+	.login input[type="text"],
+	.login input[type="password"] {
+		margin-top: 30px;
+		width: 350px;
+	}
+
+	.login button[type="submit"] {
+		margin-top: 30px;
+		background: lightskyblue;
+	}
+
+	.login button[type="text"],
+	.login button[type="password"],
+	.login button[type="button"] {
+		color: #000000;
+	}
+
+	.login span {
+		color: #ffffff
+	}
+
+/**Start Menu*/
+.mdi-toolbar {
+	z-index: 99;
+	font-size: 1rem;
+	min-height: auto;
+	background: linear-gradient(to bottom, #219de6, #101010) !important;
+}
+
+.nav-main {
+	margin-bottom: 0;
+}
+
+.navbar-header {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	flex-direction: row;
+	flex-grow: 1;
+}
+
+.navbar {
+	min-height: 40px;
+	background: blanchedalmond;
+}
+
+	.navbar li.active {
+		border-style: solid;
+		border-width: 0 0 0 10px;
+		color: #3659bb;
+		background-color: #3b5e7f;
+	}
+
+		.navbar li.active > a:hover,
+		.navbar li > a:hover {
+			color: #FFFFFF;
+			background-color: #3b5e7f;
+		}
+
+		.navbar li.active > a:hover,
+		.navbar li > a:hover {
+			font-size: 1.8rem;
+		}
+
+.navbar-nav li.active a,
+.navbar-nav li a {
+	color: #954f4f;
+	transition: all .2s;
+}
+
+.navbar-right span {
+	color: #954f4f;
+	font-size: 20px;
+}
+
+.navbar-nav > li > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/**End Menu*/

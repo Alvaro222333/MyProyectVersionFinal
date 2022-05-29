@@ -1,0 +1,224 @@
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.dll.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csc.exe
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csc.exe.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csc.rsp
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csi.exe
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csi.exe.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\csi.rsp
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.AppContext.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Console.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Net.Http.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\vbc.exe
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\vbc.exe.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\vbc.rsp
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Antlr3.Runtime.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\EntityFramework.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\EntityFramework.SqlServer.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\log4net.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Security.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Newtonsoft.Json.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Owin.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Net.Http.Formatting.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Helpers.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Http.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Http.WebHost.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Mvc.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Optimization.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Razor.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Controller.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Core.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\WebGrease.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Data.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Model.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Error.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Controller.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Core.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Core.dll.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\EntityFramework.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\EntityFramework.SqlServer.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\log4net.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Security.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Net.Http.Formatting.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Http.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Http.WebHost.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Helpers.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Mvc.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Optimization.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.Razor.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Newtonsoft.Json.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Antlr3.Runtime.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Data.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Data.dll.config
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Model.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\bin\USIP.Error.pdb
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\obj\Debug\USIP.csproj.AssemblyReference.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\obj\Debug\USIP.csproj.CoreCompileInputs.cache
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\obj\Debug\USIP.csproj.CopyComplete
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\obj\Debug\USIP.dll
+C:\Users\Core i5\Desktop\proyecto\USIP\USIP\obj\Debug\USIP.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.dll.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csc.exe
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csc.exe.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csc.rsp
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csi.exe
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csi.exe.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\csi.rsp
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.AppContext.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Collections.Immutable.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Console.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Globalization.Calendars.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.IO.Compression.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.IO.FileSystem.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Net.Http.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Net.Sockets.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Reflection.Metadata.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.ValueTuple.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Xml.XPath.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\vbc.exe
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\vbc.exe.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\vbc.rsp
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\VBCSCompiler.exe
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\roslyn\VBCSCompiler.exe.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Antlr3.Runtime.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\EntityFramework.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\EntityFramework.SqlServer.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\log4net.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Security.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Security.OAuth.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Web.Infrastructure.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Newtonsoft.Json.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Owin.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Net.Http.Formatting.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Helpers.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Http.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Http.WebHost.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Mvc.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Optimization.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Razor.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.Deployment.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.Razor.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Controller.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Core.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\WebGrease.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Data.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Model.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Error.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Controller.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Core.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Core.dll.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\EntityFramework.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\EntityFramework.SqlServer.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\log4net.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Security.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.Owin.Security.OAuth.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Net.Http.Formatting.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Http.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Http.WebHost.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Helpers.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Mvc.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Optimization.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.Razor.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.Deployment.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\System.Web.WebPages.Razor.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Newtonsoft.Json.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Antlr3.Runtime.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Data.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Data.dll.config
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Model.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\bin\USIP.Error.pdb
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\obj\Debug\USIP.csproj.AssemblyReference.cache
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\obj\Debug\USIP.csproj.CoreCompileInputs.cache
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\obj\Debug\USIP.csproj.CopyComplete
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\obj\Debug\USIP.dll
+E:\USIP VII\TECNOLOGIA DEL INTERNET\MY PROYECT v2\USIP\USIP\obj\Debug\USIP.pdb

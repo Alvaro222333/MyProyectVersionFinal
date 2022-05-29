@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23e5e3fd-6f51-414d-83a5-e23c7ade5475": {
+      "ProjectGuid": "23e5e3fd-6f51-414d-83a5-e23c7ade5475",
+      "DisplayName": "USIP",
+      "ColorIndex": 0
+    },
+    "0b7489fd-5b51-4a7f-9e63-0e3a68fcd993": {
+      "ProjectGuid": "0b7489fd-5b51-4a7f-9e63-0e3a68fcd993",
+      "DisplayName": "USIP.Controller",
+      "ColorIndex": 1
+    },
+    "fd106139-b7b5-47f0-af4c-9a8f37e2c919": {
+      "ProjectGuid": "fd106139-b7b5-47f0-af4c-9a8f37e2c919",
+      "DisplayName": "USIP.Data",
+      "ColorIndex": 2
+    },
+    "7596c1b0-b116-4383-91d3-b164755cd29e": {
+      "ProjectGuid": "7596c1b0-b116-4383-91d3-b164755cd29e",
+      "DisplayName": "USIP.Model",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
